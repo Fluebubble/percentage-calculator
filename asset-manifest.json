@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Fluebubble/percent-calculator/static/css/main.7acaea2f.css",
+    "main.js": "/Fluebubble/percent-calculator/static/js/main.0c0cf099.js",
+    "index.html": "/Fluebubble/percent-calculator/index.html",
+    "main.7acaea2f.css.map": "/Fluebubble/percent-calculator/static/css/main.7acaea2f.css.map",
+    "main.0c0cf099.js.map": "/Fluebubble/percent-calculator/static/js/main.0c0cf099.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.0c0cf099.js"
+  ]
+}
